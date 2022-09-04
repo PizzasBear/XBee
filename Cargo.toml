@@ -1,0 +1,2 @@
+[workspace]
+members = ["xbee", "xbee-derive"]
